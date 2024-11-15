@@ -1,9 +1,0 @@
- ---
- galaxy_info:
-   author: "Reka"
-   description: "Ansible role to install Docker"
-   company: "Your Company"
-   license: "MIT"
-   min_ansible_version: "2.9"
- dependencies: []
-
